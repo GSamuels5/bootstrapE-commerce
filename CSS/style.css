@@ -8,5 +8,10 @@
 }
 /*navbar*/
 img[alt="logo"]{
-    width: 5rem;
+    width: 75px;
+    height: 75px;
+}
+body{
+    text-align: center;
+    
 }
